@@ -1,4 +1,4 @@
-### Hi, My name is Olivia Stewart 
+# Hi, My name is Olivia Stewart 
 
 
 ## 🚀 About Me
@@ -19,18 +19,19 @@ I'm a software engineering student with a passion for game development and anima
 - Python  
 
 
-# Multiplayer Survival Game
+# Projects
+## Multiplayer Survival Game
 
 A brief description of what this project does and who it's for
 
-# Phyics Based Xr Interaction Framework
+## Phyics Based Xr Interaction Framework
 
 A brief description of what this project does and who it's for
 
-#  First Person Rouglite Game
+##  First Person Rouglite Game
 
 A brief description of what this project does and who it's for
 
-# Parkour Game
+## Parkour Game
 
 A brief description of what this project does and who it's for
