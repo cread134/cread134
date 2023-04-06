@@ -29,7 +29,7 @@ Over a year I created a fully playable multiplayer survival game in the unity en
 ## Phyics Based Xr Interaction Framework
 [Repository link](https://github.com/cread134/Physics-Based-Xr-Interaction)
 
-A brief description of what this project does and who it's for
+I created a custom framwork for xr interactions in the unity engine. The interactions, unlike most preexisting packages are completely physics based and as such faciliates realistic reactions with the world. 
 
 ##  First Person Rouglite Game
 [Repository link](https://github.com/cread134/Unity-rouge-like-fps)
@@ -39,4 +39,8 @@ A brief description of what this project does and who it's for
 ## Parkour Game
 [Repository link](https://github.com/cread134/Weird-unity-parkour-game)
 
-A brief description of what this project does and who it's for
+A game I created for a game jam and then expanded. It serves as a full playable game. It features a unique combat sytem with rouglite elements. It also has advanced movement mechanics. Models and animations were mostly created by me.
+
+[Itch link](https://arkleanim.itch.io/control-crisis)
+
+
