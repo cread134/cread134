@@ -1,4 +1,4 @@
-# **Hi, My name is Olivia Stewart **
+# Hi, My name is Olivia Stewart
 
 
 ## 🚀 About Me
