@@ -34,8 +34,7 @@ I created a custom framwork for xr interactions in the unity engine. The interac
 ##  First Person Rouglite Game
 [Repository link](https://github.com/cread134/Unity-rouge-like-fps)
 
-A brief description of what this project does and who it's for
-
+I worked on this project for over a year. It is a first person rouglite game. The project features full procedural levels using my own algorithm for generation. All models and animations are created by me.
 ## Parkour Game
 [Repository link](https://github.com/cread134/Weird-unity-parkour-game)
 
