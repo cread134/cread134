@@ -13,12 +13,15 @@ I'm a software engineering student with a passion for game development and anima
 
 ### 🛠 Skills
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- Unity  
-- Blender  
-- Java
-- JavaScript
-- Vue
-- Python  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 # Projects
@@ -27,6 +30,10 @@ I'm a software engineering student with a passion for game development and anima
 [![youtube](https://github.com/cread134/cread134/blob/main/gameScreeshot2.png)](https://www.youtube.com/watch?v=5Lfa-z9xHy0&t=2s)
 
 Over a year I created a fully playable multiplayer survival game in the unity engine. I programmed from scratch all game systems such as player movement, interaction etc. The project uses the Fishnet Library for networking and has steamworks integration. 
+
+# PDT - Playermakers Dev team 2023
+
+This project is to make a game as a team for university. The team is made of 20 developers, from artists to programmers. I was lead programmer and also did art and animation. 
 
 ## Phyics Based Xr Interaction Framework
 [Repository link](https://github.com/cread134/Physics-Based-Xr-Interaction)
