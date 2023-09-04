@@ -12,10 +12,12 @@ I'm a software engineering student with a passion for game development and anima
 
 
 ### 🛠 Skills
-- .Net   
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - Unity  
 - Blender  
-- Java  
+- Java
+- JavaScript
+- Vue
 - Python  
 
 
