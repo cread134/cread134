@@ -27,7 +27,6 @@ I'm a software engineering student with a passion for game development and anima
 # Projects
 ## Multiplayer Survival Game
 [Repository link](https://github.com/cread134/Unity-mutiplayer-survival-game)
-[![youtube](https://github.com/cread134/cread134/blob/main/gameScreeshot2.png)](https://www.youtube.com/watch?v=5Lfa-z9xHy0&t=2s)
 
 Over a year I created a fully playable multiplayer survival game in the unity engine. I programmed from scratch all game systems such as player movement, interaction etc. The project uses the Fishnet Library for networking and has steamworks integration. 
 
