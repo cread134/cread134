@@ -23,7 +23,7 @@ I'm a software engineering with a passion for game development and animation.
 
 
 # Projects
-## Multiplayer Survival Game
+## Realtime multiplayer game
 [Repository link](https://github.com/cread134/Unity-mutiplayer-survival-game)
 
 Over a year I created a fully playable multiplayer survival game in the unity engine. I programmed from scratch all game systems such as player movement, interaction etc. The project uses the Fishnet Library for networking and has steamworks integration. 
@@ -31,21 +31,3 @@ Over a year I created a fully playable multiplayer survival game in the unity en
 # PDT - Playermakers Dev team 2023
 
 This project is to make a game as a team for university. The team is made of 20 developers, from artists to programmers. I was lead programmer and also did art and animation. 
-
-## Phyics Based Xr Interaction Framework
-[Repository link](https://github.com/cread134/Physics-Based-Xr-Interaction)
-
-I created a custom framwork for xr interactions in the unity engine. The interactions, unlike most preexisting packages are completely physics based and as such faciliates realistic reactions with the world. 
-
-##  First Person Rouglite Game
-[Repository link](https://github.com/cread134/Unity-rouge-like-fps)
-
-I worked on this project for over a year. It is a first person rouglite game. The project features full procedural levels using my own algorithm for generation. All models and animations are created by me.
-## Parkour Game
-[Repository link](https://github.com/cread134/Weird-unity-parkour-game)
-
-A game I created for a game jam and then expanded. It serves as a full playable game. It features a unique combat sytem with rouglite elements. It also has advanced movement mechanics. Models and animations were mostly created by me.
-
-[Itch link](https://arkleanim.itch.io/control-crisis)
-
-
