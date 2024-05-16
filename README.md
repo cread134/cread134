@@ -22,9 +22,13 @@ I'm a software engineering with a passion for game development and animation.
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
+# PDT - Playermakers Dev team 2024
+
+The project has grown and now has 30 members. Again, I act as programming team lead managing eight other programmers.
+
 # PDT - Playermakers Dev team 2023
 
-This project is to make a game as a team for university. The team is made of 20 developers, from artists to programmers. I was lead programmer and also did art and animation. 
+This project is to make a game as a team for university. The team is made of 20 developers, from artists to programmers. I was lead programmer and also did art and animation. The game has been released on steam and itch.io
 
 # Realtime XR projects
 I have been experimenting with creating custom frameworks for naturalistic and immersive interaction in XR environments.
