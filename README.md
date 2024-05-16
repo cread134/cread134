@@ -22,12 +22,15 @@ I'm a software engineering with a passion for game development and animation.
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
+# PDT - Playermakers Dev team 2023
+
+This project is to make a game as a team for university. The team is made of 20 developers, from artists to programmers. I was lead programmer and also did art and animation. 
+
+# Realtime XR projects
+I have been experimenting with creating custom frameworks for naturalistic and immersive interaction in XR environments.
+
 # Projects
 ## Realtime multiplayer game
 [Repository link](https://github.com/cread134/Unity-mutiplayer-survival-game)
 
 Over a year I created a fully playable multiplayer survival game in the unity engine. I programmed from scratch all game systems such as player movement, interaction etc. The project uses the Fishnet Library for networking and has steamworks integration. 
-
-# PDT - Playermakers Dev team 2023
-
-This project is to make a game as a team for university. The team is made of 20 developers, from artists to programmers. I was lead programmer and also did art and animation. 
