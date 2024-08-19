@@ -33,7 +33,12 @@ This project is to make a game as a team for university. The team is made of 20 
 
 # Realtime XR projects
 I have been experimenting with creating custom frameworks for naturalistic and immersive interaction in XR environments.
+
+Initially I create this project.
 [Repository link](https://github.com/cread134/VrFramework)
+
+I am further expanding upon what I learnt there with 
+[Repository Link](https://github.com/cread134/UVRCore)
 
 # Projects
 ## Realtime multiplayer game
