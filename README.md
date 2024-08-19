@@ -21,6 +21,10 @@ I'm a software engineer with a passion for game development and animation.
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+# Console UI Framework
+For an assignment we had to create a console app to manage a hospital.
+To do this assignment I wrote a framework for reactive, ui with a fluent api which follows an MVC structure.
+[Repository link](https://github.com/cread134/HospitalManagementSystem)
 
 # PDT - Playermakers Dev team 2024
 # PDT - Playermakers Dev team 2023
