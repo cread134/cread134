@@ -23,9 +23,6 @@ I'm a software engineer with a passion for game development and animation.
 
 
 # PDT - Playermakers Dev team 2024
-
-The project has grown and now has 30 members. Again, I act as programming team lead managing eight other programmers.
-
 # PDT - Playermakers Dev team 2023
 
 This project is to make a game as a team for university. The team is made of 20 developers, from artists to programmers. I was lead programmer and also did art and animation. The game has been released on steam and itch.io
