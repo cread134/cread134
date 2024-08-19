@@ -26,6 +26,25 @@ For an assignment we had to create a console app to manage a hospital.
 To do this assignment I wrote a framework for reactive, ui with a fluent api which follows an MVC structure.
 [Repository link](https://github.com/cread134/HospitalManagementSystem)
 
+In short you can author ui in like so,
+```
+public class DoctorAppointmentsView : View
+{
+	public override void BuildView(ViewBuilder viewBuilder)
+	{
+		viewBuilder
+			.AddControl(new PageHeader("DOTNET Hospital Management System", "All Appointments"))
+			.AddControl(new OutputBox(string.Empty, "doctor-appointments-outputBox") { Enabled = false })
+			.AddControl(new TableView<AppointmentModel>("All Appointments",
+				new TableViewColumn<AppointmentModel>(x => x.APT_Doctor.DCT_User.USR_FullName, overrideName: "Doctor"),
+				new TableViewColumn<AppointmentModel>(x => x.APT_Patient.PAT_User.USR_FullName, overrideName: "Patient"),
+				new TableViewColumn<AppointmentModel>(x => x.APT_Description),
+				new TableViewColumn<AppointmentModel>(x => x.APT_AppointmentTime, overrideName: "Appointment Time")));
+	}
+}
+
+```
+
 # PDT - Playermakers Dev team 2024
 # PDT - Playermakers Dev team 2023
 
