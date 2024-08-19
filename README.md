@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a software engineering with a passion for game development and animation.  
+I'm a software engineer with a passion for game development and animation.  
 
 
 ## 🔗 Socials
